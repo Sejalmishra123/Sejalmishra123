@@ -32,6 +32,6 @@ Right now, I'm diving deep into AI chatbot development, text similarity, and dep
 ## 🤝 Let's Connect!
 I’m always up for new collaborations and discussing innovative AI projects. Feel free to reach out to me for project ideas, mentorship, or just to chat about machine learning, AI, and NLP!
 
-- 📧 **Email**: sejalmishra123@gmail.com  
+- 📧 **Email**: sejalmishra423@gmail.com  
 - 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sejal-mishra)  
 - 📌 **GitHub**: [My Repositories](https://github.com/Sejalmishra123)
