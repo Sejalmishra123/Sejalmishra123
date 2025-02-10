@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sejal Mishra!
 
-Welcome to my GitHub profile! I’m a Software Developer with over 2 years of experience in AI, NLP, and cloud-based applications. I specialize in Python, machine learning models, and creating scalable solutions, and I’m always looking for ways to push the boundaries of technology to create meaningful impact.
+Welcome to my GitHub profile! I’m a Software Developer with over 2+ years of experience in AI, NLP, and cloud-based applications. I specialize in Python, machine learning models, and creating scalable solutions, and I’m always looking for ways to push the boundaries of technology to create meaningful impact.
 
 ## 🛠 Technologies & Tools
 - **Languages & Frameworks**: Python, Flask, Django, FastAPI, PyTorch, TensorFlow  
